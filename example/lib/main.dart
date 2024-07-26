@@ -95,7 +95,7 @@ class _MyAppState extends State<MyApp> {
   }
 
   Widget _getStepsInfo() {
-    return const Column(
+    return Column(
       mainAxisSize: MainAxisSize.min,
       mainAxisAlignment: MainAxisAlignment.start,
       crossAxisAlignment: CrossAxisAlignment.start,
